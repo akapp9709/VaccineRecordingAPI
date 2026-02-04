@@ -1,0 +1,28 @@
+- An extra layer can be added between controller and Repositories for more combined logic such as DB and Audit (Service Classes)
+
+
+
+Quick Todo:
+[/] Remove unneeded methods from IRepository
+	- Exists /
+	- GetById / 
+	- Update /
+
+- Make Dedicated Library of Requests and Responses for use between projects
+
+[] Final To Do
+	[/] Service Interfaces
+	[] Endpoints	
+	[] Endpoint Logic
+	[] Specific Endpoint Requests/Responses
+	[] Quick Tests
+	[] Auditing
+	[] Quick Frontend
+		[] Patient Registration
+		[] Vaccine List (For Demo)
+		[] User
+
+[] To do if time left over
+	[] DbContext optimisations
+		[] Methods with no context saving (can be handled once in repo/service)
+	[] Filter by records already added to patient search

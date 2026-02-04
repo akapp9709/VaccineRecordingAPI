@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaccineRecordingAPI", "VaccineRecordingAPI.csproj", "{556E4AA9-29AD-43C0-8CF4-F35E6C7B0469}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaccineRecording.Data", "..\VaccineRecord.Data\VaccineRecording.Data.csproj", "{71FB1069-5CCF-43A3-9622-9974BE64839C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{556E4AA9-29AD-43C0-8CF4-F35E6C7B0469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556E4AA9-29AD-43C0-8CF4-F35E6C7B0469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556E4AA9-29AD-43C0-8CF4-F35E6C7B0469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556E4AA9-29AD-43C0-8CF4-F35E6C7B0469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71FB1069-5CCF-43A3-9622-9974BE64839C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71FB1069-5CCF-43A3-9622-9974BE64839C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71FB1069-5CCF-43A3-9622-9974BE64839C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71FB1069-5CCF-43A3-9622-9974BE64839C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68CCEC15-8B66-45DE-BF5E-3547E95FE5D0}
+	EndGlobalSection
+EndGlobal

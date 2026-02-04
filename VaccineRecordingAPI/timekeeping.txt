@@ -1,0 +1,7 @@
+Initial Setup of Sqlite DB and models - 6hrs (including breaks)
+Initial test of controller routing and API Setup - 1hr
+First Deliverable endpoint set up (untested) - 1hr
+
+02/02
+Light Commenting and Finishing up Patients-related endpoints - 30mins
+Starting Refactor to include Repository Abstract class and Services for multi-model operations - 
